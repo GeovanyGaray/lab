@@ -1,0 +1,30 @@
+{
+"titulo": "Revista de Partes de Computadoras",
+"articulos": [
+{
+"titulo": "Procesadores",
+"imagen": "imagenes/procesador.jpg",
+"contenido": "El agua es elemento fundamental para la vida y la supervivencia de nuestro planeta y nuestra biodiversidad. Como señala Naciones Unidas, el agua es fuente de vida, pero el impacto de la actividad humana en el cambio climático está mermando las reservas de agua y especialmente de agua potable, ya de por sí escasas, a las que tenemos acceso. Por este motivo, nuestro objetivo fundamental debe ser el cuidado del agua."
+},
+{
+"titulo": "Tarjetas gráficas",
+"imagen": "imagenes/tarjeta-madre.jpg",
+"contenido": "El aire es un elemento esencial para el desarrollo de la vida en la tierra. Su función principal es proporcionar oxígeno para respirar. Sin ellos, las plantas, los animales y los humanos no pueden existir. Sus principales componentes son nitrógeno, oxígeno, dióxido de carbono, neón, helio, etc. Todos ellos son muy importantes y necesarios para que los organismos realicen funciones importantes."
+},
+{
+"titulo": "Memoria RAM",
+"imagen": "imagenes/memoria-ram.jpg",
+"contenido": "El GNL está formado en un 95% por metano (CH4) y contiene proporciones menores de etano, propano, butano nitrógeno y dióxido de carbono. Es un combustible inoloro e incoloro que no es toxico ni corrosivo y en un hipotético derrame en la tierra o agua, se evaporará y se elevaría a la atmosfera, sin dejar residuos, gracias a que es un 35-40% más liviano que el aire, este experimenta una creciente demanda global debido a su eficiencia, menor impacto ambiental y amplio uso."
+},
+{
+"titulo": "Disco duro",
+"imagen": "imagenes/disco-duro.jpg",
+"contenido": "Existen una gran variedad de combustibles hostilizado por la humanidad desde hace mucho tiempo o cómo son los hidrocarburos carbón o la energía eólica, gasolina, Diesel entre otros utilizados en la actualidad debido a su alta densidad energética y su fácil transporte y almacenamiento. Sin embargo, su uso excesivo tiene consecuencias negativas para el medio ambiente, como la emisión de gases de efecto invernadero que contribuyen al cambio climático."
+},
+{
+"titulo": "Disco duro",
+"imagen": "imagenes/disco-duro.jpg",
+"contenido": "Uno de los beneficios que se puede obtener mediante el reciclaje es que se reduce la cantidad de residuos que se pueden producir y así reducir la contaminación del suelo, agua y aire, que son los principales componentes para poder subsistir, es nuestro deber como seres humanos reciclar y evitar la deterioración de nuestros recursos y nuestro planeta."
+}
+]
+}
